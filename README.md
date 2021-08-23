@@ -7,6 +7,7 @@
 <td align="center"><a href="https://www.youtube.com/channel/UCKHc3Id634qWSrZ_vbQKGTQ"><img style="border-radius: 5%;" src="https://camo.githubusercontent.com/4a20e861b6593d07cef8e8b740e64a866ba7a9916d7e00a9c50c05e93a8096b8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f796f75747562652e737667" width="40px;" alt=""/><br /><sub><b></b></sub></a><br /></td>
  
 # Linguagens de progamação aprendidas
- 
-+ <img src="https://user-images.githubusercontent.com/88547689/130497390-4b034573-6c7a-48f3-925a-582fc943dd43.png"/n
+
+<p>
+<img src="https://user-images.githubusercontent.com/88547689/130497390-4b034573-6c7a-48f3-925a-582fc943dd43.png"/n
 </p>
