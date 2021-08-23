@@ -3,7 +3,7 @@
 </p>
   
 <td align="center"><a href=""><img style="border-radius: 100%;" src= "https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
-width="100px;" alt=""/><br /><sub><b>shell script</b></sub></a><br /></td>
+ alt="banner" style="max-width:100%;">
  
 # Minhas redes sociais
  
