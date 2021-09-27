@@ -12,7 +12,6 @@
 # Linguagens de progamação
 
 <td align="center"><a href="https://en.wikipedia.org/wiki/Shell_script"><img style="border-radius: 5%;" src="https://user-images.githubusercontent.com/88547689/130497390-4b034573-6c7a-48f3-925a-582fc943dd43.png" width="40px;" alt=""/><br /><sub><b>Shell script</b></sub></a><br /></td>
- 
 <td align="center"><a href="https://en.wikipedia.org/wiki/Python"><img style="border-radius: 5%;" src="https://cdn.icon-icons.com/icons2/2622/PNG/512/brand_python_icon_157826.png" width="40px;" alt=""/><br /><sub><b>Python</b></sub></a><br /></td>
   
 <p>
