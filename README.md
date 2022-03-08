@@ -8,10 +8,7 @@
 # Minhas redes sociais
  
 <a href="https://www.youtube.com/channel/UCKHc3Id634qWSrZ_vbQKGTQ" target="_blank">
-<img align="center" alt="H7X-youtube" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" style="max-width:100%;">
-</a>
-<a href="https://www.instagram.com/H7X000" target="_blank">
-<img align="center" alt="diego-instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
+<img align="center" alt="S4T4Nn-youtube" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" style="max-width:100%;">
 </a>
  
 # Linguagens de progamação
